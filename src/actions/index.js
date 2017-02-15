@@ -1,3 +1,3 @@
-/**
- * Created by danle on 2/4/17.
- */
+export function selectBook(book) {
+    console.log('A book has been selected:', book.title);
+}
